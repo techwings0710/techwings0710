@@ -1,1 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="580" height="235" viewBox="0 0 580 235" role="img" aria-label="Malavika Vivek personal profile graphic"><rect width="580" height="235" fill="#FFF1F5"/><rect x="0" y="0" width="580" height="235" fill="#FFF1F5"/><rect x="12" y="12" width="556" height="211" fill="none" stroke="#BC91A2"/><text x="37" y="49" fill="#482638" font-family="Arial,sans-serif" font-size="13" letter-spacing="3">01 / FEATURED PROJECT</text><path d="M460 48 H541 M540 48 l-10 -9 M540 48 l-10 9" fill="none" stroke="#482638" stroke-width="2"/><text x="37" y="112" fill="#2C1421" font-family="Georgia,serif" font-size="47">AegisQuant</text><text x="39" y="150" fill="#80485F" font-family="Arial,sans-serif" font-size="17">Cybersecurity meets financial decision-making</text><line x1="38" y1="170" x2="542" y2="170" stroke="#DAB5C2"/><text x="39" y="196" fill="#482638" font-family="Arial,sans-serif" font-size="14" letter-spacing=".5">SIH 2026  ·  RISK ANALYTICS  ·  SIMULATION</text></svg>
+<svg width="640" height="340" viewBox="0 0 640 340" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="g" x1="0" y1="0" x2="640" y2="340" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#fff7f9"/>
+    <stop offset="1" stop-color="#fdebf1"/>
+  </linearGradient>
+  <radialGradient id="rg" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(560 72) rotate(90) scale(120 120)">
+    <stop stop-color="#f5afc0" stop-opacity="0.38"/>
+    <stop offset="1" stop-color="#f5afc0" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect x="1.5" y="1.5" width="637" height="337" rx="22" fill="url(#g)" stroke="#bb8ba0" stroke-width="3"/>
+<rect x="0" y="0" width="640" height="340" rx="22" fill="url(#rg)"/>
+<text x="36" y="48" fill="#8d5d72" font-family="Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3.3">CYBERSECURITY · RISK ANALYTICS</text>
+<text x="36" y="98" fill="#331723" font-family="Georgia, 'Times New Roman', serif" font-size="44" font-weight="700">AegisQuant</text>
+<line x1="36" y1="123" x2="604" y2="123" stroke="#d7b4c1" stroke-width="2"/>
+<circle cx="54" cy="168" r="5" fill="#f5afc0"/><text x="74" y="175" fill="#4c3140" font-family="Helvetica, Arial, sans-serif" font-size="20">AI-assisted cyber risk intelligence platform</text><circle cx="54" cy="210" r="5" fill="#f5afc0"/><text x="74" y="217" fill="#4c3140" font-family="Helvetica, Arial, sans-serif" font-size="20">Maps security vulnerabilities to financial exposure</text><circle cx="54" cy="252" r="5" fill="#f5afc0"/><text x="74" y="259" fill="#4c3140" font-family="Helvetica, Arial, sans-serif" font-size="20">Supports simulation-led, budget-aware decisions</text>
+<text x="36" y="302" fill="#7f5668" font-family="Helvetica, Arial, sans-serif" font-size="16">Smart India Hackathon 2026 · Team Project</text>
+<text x="500" y="302" fill="#7f5668" font-family="Helvetica, Arial, sans-serif" font-size="16">Case Study ↗</text>
+</svg>

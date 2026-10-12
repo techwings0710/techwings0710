@@ -1,36 +1,58 @@
-# Publish your Burgundy & Blush profile
+# Burgundy & Blush GitHub profile — V2
 
-## Quickest option: GitHub web interface
+This version moves your README closer to the visual language you liked:
+- the **hero banner** now matches the first reference much more closely
+- the rest of the README uses **glowing section panels** inspired by Jeh's profile
+- all effects are implemented using **SVG assets**, because GitHub READMEs do not allow custom CSS or JavaScript
 
-1. Sign in to the GitHub account **techwings0710**.
-2. Create a **public** repository named **techwings0710** (exact spelling, same as your username). If it already exists, open it instead.
-3. Extract the ZIP locally. Open the extracted `malavika-editorial-github-profile` folder.
-4. On the GitHub repository, choose **Add file → Upload files**. Drag **README.md** and the **assets** folder together onto the upload area. You can also upload `SETUP.md`, though it is optional.
-5. Before committing, ensure the uploaded paths show `README.md`, `assets/hero.svg`, `assets/aegisquant.svg`, `assets/heritage-shield.svg`, and `assets/section-divider.svg`.
-6. Commit changes. Visit https://github.com/techwings0710 to see your profile.
+## How to publish
 
-If GitHub's upload UI does not keep the folder, use Git in the terminal:
+1. Sign in to your GitHub account **techwings0710**.
+2. Open the repository named **techwings0710**. If it does not exist, create a **public** repo with that exact name.
+3. Upload **README.md** and the complete **assets/** folder.
+4. Commit the files.
+5. Refresh `https://github.com/techwings0710` to see the updated profile.
 
-```bash
-git clone https://github.com/techwings0710/techwings0710.git
-cd techwings0710
-# Copy README.md and the complete assets/ directory into this cloned directory.
-git add README.md assets SETUP.md
-git commit -m "Design Burgundy and Blush profile"
-git push origin main
+## Required file structure
+
+```text
+techwings0710/
+├─ README.md
+├─ SETUP.md
+└─ assets/
+   ├─ hero.svg
+   ├─ section-about.svg
+   ├─ section-projects.svg
+   ├─ section-journey.svg
+   ├─ section-tools.svg
+   ├─ section-contact.svg
+   ├─ about-code.svg
+   ├─ aegisquant.svg
+   ├─ heritage-shield.svg
+   └─ footer.svg
 ```
 
-Do not move the SVG files out of `assets/`: the README uses relative paths like `./assets/hero.svg`.
+## Important limitation
 
-## Personalize before publishing
+GitHub profile READMEs do **not** support:
+- custom CSS files
+- JavaScript
+- animated page backgrounds
+- hover effects beyond basic markdown rendering
 
-- Confirm your exact college and degree names, internship details, and personal contributions.
-- Add a Heritage Shield repository URL when it is public.
-- If you have a portfolio site later, add its link beside the existing contact badges.
-- To edit colors or text in a banner, open the corresponding `.svg` in VS Code; SVGs are plain text.
-- All graphics are included locally. The contact badges use shields.io (an external service), so they need internet access.
+So the glowing look is simulated using static SVG graphics embedded in the README.
+
+## Easy edit points
+
+- To change banner text, edit `assets/hero.svg`
+- To change section labels, edit the corresponding `section-*.svg`
+- To change project summaries, edit `README.md`
+- To add a Heritage Shield repo later, replace the placeholder text in `README.md`
 
 ## Palette
-Deep Burgundy `#2C1421` · Muted Wine `#482638` · Dusty Mauve `#99617B` · Blush `#F5AFC0` · Soft Ivory `#FFF1F5`.
 
-No GitHub Actions, secret tokens, installs or additional build steps required. GitHub automatically renders the profile README when the repository name matches your username.
+- Deep Burgundy `#2C1421`
+- Wine `#482638`
+- Dusty Mauve `#99617B`
+- Blush `#F5AFC0`
+- Soft Ivory `#FFF1F5`

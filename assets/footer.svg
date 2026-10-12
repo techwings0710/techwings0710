@@ -1,0 +1,5 @@
+<svg width="1380" height="90" viewBox="0 0 1380 90" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs><linearGradient id="g" x1="0" y1="45" x2="1380" y2="45" gradientUnits="userSpaceOnUse"><stop stop-color="#5e3548"/><stop offset="0.5" stop-color="#d595a8"/><stop offset="1" stop-color="#5e3548"/></linearGradient></defs>
+<line x1="20" y1="35" x2="1360" y2="35" stroke="url(#g)" stroke-width="3"/>
+<text x="690" y="70" text-anchor="middle" fill="#d7a0b3" font-family="Helvetica, Arial, sans-serif" font-size="18">Made with curiosity, and a few too many tabs open.</text>
+</svg>
