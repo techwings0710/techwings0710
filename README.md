@@ -1,71 +1,43 @@
-<!-- GitHub profile README: repository name must be techwings0710 -->
+<!-- Profile repository: techwings0710/techwings0710 -->
 <div align="center">
-  <img src="./assets/hero.svg" alt="Malavika Vivek midnight blue and gold hero banner" width="100%" />
+  <img src="./assets/hero.png" alt="Malavika Vivek — engineering, ideas, curiosity" width="100%" />
   <br /><br />
-  <a href="mailto:malavika.vivek@gmail.com"><img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-0F1E3D?style=flat-square&labelColor=07111F&color=E7C56D" alt="Email Malavika" /></a>
-  <a href="https://www.linkedin.com/in/malavikavivek07/"><img src="https://img.shields.io/badge/LINKEDIN-MALAVIKAVIVEK07-0F1E3D?style=flat-square&labelColor=07111F&color=E7C56D" alt="LinkedIn" /></a>
-  <a href="https://github.com/techwings0710"><img src="https://img.shields.io/badge/GITHUB-TECHWINGS0710-0F1E3D?style=flat-square&labelColor=07111F&color=E7C56D" alt="GitHub" /></a>
+  <a href="mailto:malavika.vivek@gmail.com"><img src="https://img.shields.io/badge/CONTACT%20ME-EMAIL-E4C478?style=for-the-badge&labelColor=101F35&color=E4C478" alt="Contact me by email" /></a>
+  <a href="https://www.linkedin.com/in/malavikavivek07/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-E4C478?style=for-the-badge&labelColor=101F35&color=E4C478" alt="LinkedIn" /></a>
+  <a href="https://github.com/techwings0710"><img src="https://img.shields.io/badge/GITHUB-FOLLOW-E4C478?style=for-the-badge&labelColor=101F35&color=E4C478" alt="GitHub" /></a>
 </div>
 
 <br />
 
-<img src="./assets/section-about.svg" alt="About Me section" width="100%" />
-<br />
-<img src="./assets/about-code.svg" alt="About Me code panel" width="100%" />
+<img src="./assets/section-about.png" alt="About Me" width="100%" />
+<img src="./assets/about-code.png" alt="About Me code profile" width="100%" />
+
+I'm studying **Electronics & Computer Engineering at K J Somaiya** alongside **Management and Data Science at IIT Madras**. I enjoy exploring how software, engineering, data, and design can come together to solve real problems.
+
+> An engineer by education. A curious mind by nature.
 
 <br />
 
-> I am an Electronics & Computer Engineering student at **K J Somaiya College of Engineering**, also pursuing **Management and Data Science at IIT Madras**. I like building at the intersection of **engineering, AI, data, and decision-making** — especially when an idea feels both technically interesting and practically useful.
+<img src="./assets/section-projects.png" alt="Featured Projects" width="100%" />
 
-- **Current focus:** AI/ML · fintech · full-stack software · data-driven problem solving  
-- **What I enjoy:** thoughtful interfaces, hackathon builds, product thinking, and learning by making  
-- **Right now:** strengthening my foundations while building projects that feel ambitious enough to grow into something bigger
-
-<br />
-
-<img src="./assets/section-projects.svg" alt="Featured Projects section" width="100%" />
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-  <a href="https://github.com/techwings0710/aegisquant"><img src="./assets/aegisquant.svg" width="100%" alt="AegisQuant project card" /></a>
-  <br /><br />
-  A Smart India Hackathon 2026 project focused on translating technical cyber risk into understandable, decision-friendly financial exposure.
-  <br /><br />
-  <a href="https://github.com/techwings0710/aegisquant"><b>Explore AegisQuant →</b></a>
-</td>
-<td width="50%" valign="top">
-  <img src="./assets/heritage-shield.svg" width="100%" alt="Heritage Shield project card" />
-  <br /><br />
-  A Smart India Hackathon 2026 project exploring AI-assisted monitoring, risk analysis, and resilience planning for cultural heritage conservation.
-  <br /><br />
-  <i>Repository link can be added when public.</i>
-</td>
-</tr>
-</table>
-</div>
+<table><tr>
+<td width="50%" valign="top"><a href="https://github.com/techwings0710/aegisquant"><img src="./assets/aegisquant.png" alt="AegisQuant" width="100%" /></a><p>An SIH 2026 team project exploring cyber-risk quantification and security investment prioritization.</p><a href="https://github.com/techwings0710/aegisquant">Explore project →</a></td>
+<td width="50%" valign="top"><img src="./assets/heritage-shield.png" alt="Heritage Shield" width="100%" /><p>An SIH 2026 team project focused on AI-assisted digital twins and predictive conservation of heritage sites.</p><i>Repository link coming when public.</i></td>
+</tr></table>
 
 <br />
 
-<img src="./assets/section-journey.svg" alt="Experience and Education section" width="100%" />
-<br />
-<img src="./assets/experience-panel.svg" alt="Experience and Education panel" width="100%" />
+<img src="./assets/section-journey.png" alt="Experience and Education" width="100%" />
+<img src="./assets/experience-panel.png" alt="Internships and education timeline" width="100%" />
 
 <br />
 
-<img src="./assets/section-tools.svg" alt="Tools and Topics section" width="100%" />
-<br />
-<img src="./assets/tools-panel.svg" alt="Tools and Topics panel" width="100%" />
+<img src="./assets/section-tools.png" alt="Tools and Technologies" width="100%" />
+<img src="./assets/tools-panel.png" alt="Languages, tools and interests" width="100%" />
 
 <br />
 
-<img src="./assets/section-contact.svg" alt="Find Me section" width="100%" />
+<img src="./assets/section-contact.png" alt="Let's Connect" width="100%" />
 
-**[GitHub](https://github.com/techwings0710)** · **[LinkedIn](https://www.linkedin.com/in/malavikavivek07/)** · **[Email](mailto:malavika.vivek@gmail.com)**
-
-<br />
-
-<div align="center">
-  <img src="./assets/footer.svg" alt="Built with curiosity" width="100%" />
-</div>
+<div align="center"><p><a href="mailto:malavika.vivek@gmail.com">Contact Me</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/malavikavivek07/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/techwings0710">GitHub</a></p>
+<img src="./assets/footer.png" alt="The next chapter is still being written" width="100%" /></div>
