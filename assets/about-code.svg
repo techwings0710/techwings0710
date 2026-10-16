@@ -1,28 +1,15 @@
 <svg width="1380" height="470" viewBox="0 0 1380 470" fill="none" xmlns="http://www.w3.org/2000/svg">
 <defs>
-  <linearGradient id="bg" x1="0" y1="0" x2="0" y2="470" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#110d12"/>
-    <stop offset="1" stop-color="#090b10"/>
-  </linearGradient>
-  <linearGradient id="line" x1="0" y1="0" x2="1380" y2="0">
-    <stop stop-color="#b87890"/>
-    <stop offset="1" stop-color="#6b4458"/>
-  </linearGradient>
-  <filter id="glow" x="-15%" y="-15%" width="130%" height="130%">
-    <feGaussianBlur stdDeviation="8" result="b"/>
-    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-  </filter>
+<linearGradient id="bg" x1="0" y1="0" x2="0" y2="470"><stop stop-color="#09111f"/><stop offset="1" stop-color="#060c17"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1380" y2="0"><stop stop-color="#CDA349"/><stop offset="1" stop-color="#4f6893"/></linearGradient>
+<filter id="glow" x="-15%" y="-15%" width="130%" height="130%"><feGaussianBlur stdDeviation="7" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
 </defs>
-<rect x="1.5" y="1.5" width="1377" height="467" rx="22" fill="url(#bg)" stroke="#a66b82" stroke-width="3"/>
-<rect x="1.5" y="1.5" width="1377" height="62" rx="22" fill="#111a23" stroke="#a66b82" stroke-width="2"/>
+<rect x="1.5" y="1.5" width="1377" height="467" rx="24" fill="url(#bg)" stroke="#6f86ad" stroke-width="3"/>
+<rect x="1.5" y="1.5" width="1377" height="62" rx="24" fill="#0d1729" stroke="#6f86ad" stroke-width="2"/>
 <circle cx="34" cy="31" r="10" fill="#ff6f61"/>
 <circle cx="66" cy="31" r="10" fill="#ffca57"/>
 <circle cx="98" cy="31" r="10" fill="#2ed573"/>
-<text x="138" y="39" fill="#c79daf" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="17">malavika.ts</text>
-<text x="1235" y="39" fill="#c79daf" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="17">TypeScript</text>
+<text x="138" y="39" fill="#b5c2db" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="17">malavika.ts</text>
+<text x="1235" y="39" fill="#b5c2db" font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="17">TypeScript</text>
 <line x1="0" y1="63" x2="1380" y2="63" stroke="url(#line)" stroke-width="2"/>
-
-<g font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="18">
-<text x="48" y="115" fill="#7f6a74">1</text><text x="108" y="115" fill="#fff3f7">const malavika = {</text><text x="48" y="154" fill="#7f6a74">2</text><text x="108" y="154" fill="#f5afc0">  name: "Malavika Vivek",</text><text x="48" y="193" fill="#7f6a74">3</text><text x="108" y="193" fill="#fff3f7">  role: "Electronics & Computer Engineering Student",</text><text x="48" y="232" fill="#7f6a74">4</text><text x="108" y="232" fill="#fff3f7">  institution: ["K J Somaiya College of Engineering",</text><text x="48" y="271" fill="#7f6a74">5</text><text x="108" y="271" fill="#fff3f7">                "IIT Madras"],</text><text x="48" y="310" fill="#7f6a74">6</text><text x="108" y="310" fill="#fff3f7">  location: "Mumbai, India",</text><text x="48" y="349" fill="#7f6a74">7</text><text x="108" y="349" fill="#fff3f7">  focus: ["AI/ML", "FinTech", "Full-Stack", "Data"],</text><text x="48" y="388" fill="#7f6a74">8</text><text x="108" y="388" fill="#fff3f7">  building: ["AegisQuant", "Heritage Shield"],</text><text x="48" y="427" fill="#7f6a74">9</text><text x="108" y="427" fill="#ffcf5d">  currentGPA: 9.39,</text><text x="48" y="466" fill="#7f6a74">10</text><text x="108" y="466" fill="#fff3f7">} as const;</text><rect x="275" y="430" width="14" height="24" fill="#f5afc0" filter="url(#glow)"/>
-</g>
-</svg>
+<g font-family="SFMono-Regular, Menlo, Consolas, monospace" font-size="18"><text x="48" y="115" fill="#667898">1</text><text x="108" y="115" fill="#F8FAFF">const malavika = {</text><text x="48" y="154" fill="#667898">2</text><text x="108" y="154" fill="#F4DE9A">  name: "Malavika Vivek",</text><text x="48" y="193" fill="#667898">3</text><text x="108" y="193" fill="#F8FAFF">  role: "Electronics & Computer Engineering Student",</text><text x="48" y="232" fill="#667898">4</text><text x="108" y="232" fill="#F8FAFF">  institution: ["K J Somaiya College of Engineering",</text><text x="48" y="271" fill="#667898">5</text><text x="108" y="271" fill="#F8FAFF">                "IIT Madras"],</text><text x="48" y="310" fill="#667898">6</text><text x="108" y="310" fill="#F8FAFF">  location: "Mumbai, India",</text><text x="48" y="349" fill="#667898">7</text><text x="108" y="349" fill="#F8FAFF">  focus: ["AI/ML", "FinTech", "Full-Stack", "Data"],</text><text x="48" y="388" fill="#667898">8</text><text x="108" y="388" fill="#F8FAFF">  building: ["AegisQuant", "Heritage Shield"],</text><text x="48" y="427" fill="#667898">9</text><text x="108" y="427" fill="#E7C56D">  currentGPA: 9.39,</text><text x="48" y="466" fill="#667898">10</text><text x="108" y="466" fill="#F8FAFF">} as const;</text><rect x="280" y="430" width="14" height="24" fill="#E7C56D" filter="url(#glow)"/></g></svg>

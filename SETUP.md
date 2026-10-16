@@ -1,20 +1,24 @@
-# Burgundy & Blush GitHub profile — V2
+# Midnight Blue & Gold GitHub profile
 
-This version moves your README closer to the visual language you liked:
-- the **hero banner** now matches the first reference much more closely
-- the rest of the README uses **glowing section panels** inspired by Jeh's profile
-- all effects are implemented using **SVG assets**, because GitHub READMEs do not allow custom CSS or JavaScript
+This version rebuilds your GitHub profile in a more aesthetic, premium direction.
 
-## How to publish
+## What changed
+- New **midnight blue + gold** palette
+- More polished **editorial hero banner**
+- Proper section headers for every part of the README
+- Experience and tools converted into **custom visual panels** instead of plain markdown tables
+- More image-driven layout so GitHub renders it more consistently
 
-1. Sign in to your GitHub account **techwings0710**.
-2. Open the repository named **techwings0710**. If it does not exist, create a **public** repo with that exact name.
-3. Upload **README.md** and the complete **assets/** folder.
-4. Commit the files.
-5. Refresh `https://github.com/techwings0710` to see the updated profile.
+## Important upload note
+If some old graphics are still showing or some headers appear broken, it usually means the old `assets/` folder was not fully replaced.
 
-## Required file structure
+The safest method is:
+1. Delete the old `assets` folder from the `techwings0710` repo.
+2. Upload the **new `assets` folder** from this package.
+3. Upload the **new `README.md`**.
+4. Refresh the profile.
 
+## Required structure
 ```text
 techwings0710/
 ├─ README.md
@@ -29,30 +33,17 @@ techwings0710/
    ├─ about-code.svg
    ├─ aegisquant.svg
    ├─ heritage-shield.svg
+   ├─ experience-panel.svg
+   ├─ tools-panel.svg
    └─ footer.svg
 ```
 
-## Important limitation
-
-GitHub profile READMEs do **not** support:
-- custom CSS files
-- JavaScript
-- animated page backgrounds
-- hover effects beyond basic markdown rendering
-
-So the glowing look is simulated using static SVG graphics embedded in the README.
-
-## Easy edit points
-
-- To change banner text, edit `assets/hero.svg`
-- To change section labels, edit the corresponding `section-*.svg`
-- To change project summaries, edit `README.md`
-- To add a Heritage Shield repo later, replace the placeholder text in `README.md`
+## GitHub limitation
+GitHub profile READMEs do not support real CSS or JavaScript, so the lighting and panel effects are simulated using SVG artwork.
 
 ## Palette
-
-- Deep Burgundy `#2C1421`
-- Wine `#482638`
-- Dusty Mauve `#99617B`
-- Blush `#F5AFC0`
-- Soft Ivory `#FFF1F5`
+- Midnight Navy `#07111F`
+- Deep Blue `#0F1E3D`
+- Gold `#E7C56D`
+- Antique Gold `#CDA349`
+- Soft Ivory Gold `#F4DE9A`
