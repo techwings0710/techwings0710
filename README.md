@@ -12,9 +12,7 @@
 <img src="./assets/section-about.png" alt="About Me" width="100%" />
 <img src="./assets/about-code.png" alt="About Me code profile" width="100%" />
 
-I'm studying **Electronics & Computer Engineering at K J Somaiya** alongside **Management and Data Science at IIT Madras**. I enjoy exploring how software, engineering, data, and design can come together to solve real problems.
-
-> An engineer by education. A curious mind by nature.
+I'm studying **Electronics & Computer Engineering at K J Somaiya** alongside **Management and Data Science at IIT Madras**. I enjoy exploring how software, engineering, data, and creativity can come together to solve real problems.
 
 <br />
 
@@ -37,7 +35,4 @@ I'm studying **Electronics & Computer Engineering at K J Somaiya** alongside **M
 
 <br />
 
-<img src="./assets/section-contact.png" alt="Let's Connect" width="100%" />
-
-<div align="center"><p><a href="mailto:malavika.vivek@gmail.com">Contact Me</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/malavikavivek07/">LinkedIn</a> &nbsp;·&nbsp; <a href="https://github.com/techwings0710">GitHub</a></p>
 <img src="./assets/footer.png" alt="The next chapter is still being written" width="100%" /></div>
